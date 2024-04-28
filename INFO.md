@@ -1,6 +1,2 @@
 git is awesome!
-new line
-test
-experiment with amend
-new data
-new data1
+t1
